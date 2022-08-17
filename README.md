@@ -17,8 +17,8 @@
 3) Install PyTorch and torchvision (CUDA is required):
     `conda install pytorch==1.12.0 torchvision==0.13.0 cudatoolkit=11.6 -c pytorch`
 
-4) Install required libraries
-    `pip install to-requirements.txt`
+4) 安装所需的库
+    `pip install -r requirements.txt`
 
 5) Star this project and raise an issue for getting the trained model
    
